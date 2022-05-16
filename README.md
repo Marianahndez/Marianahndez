@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img alt="NX" src="https://img.shields.io/badge/-NX-2b3636?style=for-the-badge&logo=nx&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-fe4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img alt="Gsap" src="https://img.shields.io/badge/-Gsap-4e9816?style=for-the-badge&logo=gsap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-5090D3?style=for-the-badge&logo=mui&logoColor=white" />
