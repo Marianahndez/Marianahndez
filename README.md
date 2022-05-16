@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <li>📫 How to reach me: marianazamarripa.mz@gmail.com</li>
 </ul>
 
-<h2> The recent tools I've been working with </h2>
+<h2> Recent tools I've been working with </h2>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
