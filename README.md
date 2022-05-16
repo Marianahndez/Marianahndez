@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <p>
   <img alt="ReactJS" src="https://img.shields.io/badge/-React%20JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fecb2c?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white" />
