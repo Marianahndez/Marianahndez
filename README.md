@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-5090D3?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-76a47d?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fecb2c?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-5cebdf?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-5cebdf?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 <!-- - React Testing Library / Jest
 - Redux
