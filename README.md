@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img alt="ReactJS" src="https://img.shields.io/badge/-React%20JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="NX" src="https://img.shields.io/badge/-NX-2b3636?style=for-the-badge&logo=nx&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <!-- - React Testing Library / Jest
 - Redux
 - Typescript
-- Nx
+- Nx #2b3636
 - Angular 4^
 - Storybook
 - CSS libraries
