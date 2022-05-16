@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 
 ## The recent tools I've been working with
 
-- React JS
+<p>
+  <img alt="ReactJS" src="img.shields.io/badge/-React%20JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 - React Testing Library / Jest
 - Redux
 - Typescript
