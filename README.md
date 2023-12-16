@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <h3> The recents about me </h3>
 
 <ul>
-  <li>🔭 I’m currently working on @Accenture as FE Application Development Sr Analyst</li>
+  <li>🔭 I’m currently working on @Accenture as Frontend Developer</li>
   <li>🌱 I'm also finishing a certification in AWS practitioner</li>
   <li>📫 How to reach me: marianazamarripa.mz@gmail.com</li>
 </ul>
